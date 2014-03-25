@@ -1,0 +1,5 @@
+S:\Github\My Code Samples\thread-safe-collections\ThreadSafeCollections\ThreadSafeCollections\obj\Debug\ThreadSafeCollections.csprojResolveAssemblyReference.cache
+S:\Github\My Code Samples\thread-safe-collections\ThreadSafeCollections\ThreadSafeCollections\bin\Debug\ThreadSafeCollections.dll
+S:\Github\My Code Samples\thread-safe-collections\ThreadSafeCollections\ThreadSafeCollections\bin\Debug\ThreadSafeCollections.pdb
+S:\Github\My Code Samples\thread-safe-collections\ThreadSafeCollections\ThreadSafeCollections\obj\Debug\ThreadSafeCollections.dll
+S:\Github\My Code Samples\thread-safe-collections\ThreadSafeCollections\ThreadSafeCollections\obj\Debug\ThreadSafeCollections.pdb
