@@ -847,7 +847,7 @@ namespace ThreadSafeCollections
         /// <param name="item">the item to insert</param>
         public void Insert(int index, T item)
         {
-            LockList.ExitWriteLock();
+            LockList.EnterWriteLock();
             try
             {
                 m_TList.Insert(index, item);
